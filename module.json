@@ -1,0 +1,15 @@
+{
+    "name": "minimal-images",
+    "title": "Minimal Images",
+    "description": "Removes most of the UI for image popouts and helps rearrange them.",
+    "version": "1.0",
+    "author": "Reggie B",
+    "scripts": ["./minimal-images.js"],
+    "styles": [],
+    "packs": [],
+    "url": "https://github.com/syl3r86/displaymode",
+    "manifest": "https://raw.githubusercontent.com/syl3r86/displaymode/master/module.json",
+    "download": "https://github.com/syl3r86/displaymode/archive/v0.1.zip",
+    "minimumCoreVersion": "0.9.0",
+    "compatibleCoreVersion": "0.9.0"
+}
